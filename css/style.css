@@ -79,7 +79,6 @@ button {
 .nav_menu_list {
   display: flex;
   align-items: center;
-  background: black;
 }
 .nav_menu_list .nav_menu_item {
   margin: 0 2rem;
@@ -88,7 +87,7 @@ button {
   font-size: 16.5px;
   line-height: 27px;
   /* color: var(--link-color); */
-  color: var(--text-content);
+  color: rgb(144, 144, 148);
   text-transform: capitalize;
   letter-spacing: 0.5px;
 }
